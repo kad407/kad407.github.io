@@ -113,15 +113,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Kevin Afonso Duque"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Currently a Master of Arts Economics Student at Rutgers University, New Brunswick"
+  location         : "Paramus, N.J."
+  email            : "kad407@scarletmail.rutgers.edu / kevin.a.duque07@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "kad407@scarletmail.rutgers.edy"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
