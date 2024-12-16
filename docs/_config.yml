@@ -206,7 +206,7 @@ collections:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "https://jekyll-themes.com/category/dark"
       type: posts
     values:
       layout: single
