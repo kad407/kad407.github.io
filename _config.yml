@@ -121,7 +121,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "kad407@scarletmail.rutgers.edu"
+      url: "kad407@scarletmail.rutgers.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -133,10 +133,10 @@ author:
       url: "https://www.facebook.com/kevin.duque.549436/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/kad407/Econometrics-II.git"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://www.instagram.com/kevin_duque07?fbclid=IwY2xjawHMTJFleHRuA2FlbQIxMAABHUT5kS9HnG83kDMb2hq9sKLx3ILo9wa0WoKpRESy9S-ZrxZs9FbDZ_Erjw_aem_6DrKS97kvZGM8H9Pv0QZIQ"
+      url: "https://www.instagram.com/kevin_duque07?fbclid=IwY2xjawHMTJFleHRuA2FlbQIxMAABHUT5kS9HnG83kDMb2hq9sKLx3ILo9wa0WoKpRESy9S-ZrxZs9FbDZ_Erjw_aem_6DrKS97kvZGM8H9Pv0QZIQ"
 
 # Site Footer
 footer:
