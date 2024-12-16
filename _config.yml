@@ -307,7 +307,7 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: "https://github.com/kad407/kad407.github.io/blob/6ec1c6d7e932275164399549aab2e3c895541f48/docs/_posts/2012-01-03-layout-table-of-contents-post.md"
+      path: "https://github.com/kad407/kad407.github.io/blob/master/docs/_posts/2024-12-15-my-first-post.md"
       type: posts
     values:
       layout: single
