@@ -114,10 +114,9 @@ analytics:
 # Site Author
 author:
   name             : "Kevin Afonso Duque"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://github.com/kad407/kad407.github.io/blob/master/Rutgers-University-Seal-Logo.png?raw=true"
   bio              : "Currently a Master of Arts Economics Student at Rutgers University, New Brunswick"
-  location         : "Paramus, N.J."
-  email            : "kad407@scarletmail.rutgers.edu"
+  location         : "Paramus, N.J., 07652"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
