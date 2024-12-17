@@ -1,7 +1,5 @@
-yaml
-
 ---
-layout: post
+layout: posts
 title: "My First Post"
 date: 2024-12-15 10:00:00 +0000
 categories: [blog, jekyll]
