@@ -118,9 +118,6 @@ author:
   bio              : "My name is Kevin Afonso Duque. I was born in New Jersey, USA, into a Portuguese household. I am a first-generation American. I am currently completing a Masters Degree in Economics and am expected to graduate by May 2025. You can read more about me in the [About me](/about/) section."
   location         : "Paramus, N.J., 07652"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "kad407@scarletmail.rutgers.edu"
     - label: "Resume"
       icon: "far fa-fw fa-file-pdf"
       url: "/assets/resume-kevin-duque.pdf"
