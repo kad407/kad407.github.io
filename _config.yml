@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Kevin Afonso Duque"
   avatar           : "https://github.com/kad407/kad407.github.io/blob/master/Personal_Avatar_Photo.png?raw=true"
-  bio              :  My name is Kevin Afonso Duque. I was born in New Jersey, USA, into a Portuguese household. I am a first-generation American. I am currently completing a Masters Degree in Economics and am expected to graduate by May 2025. You can read more about me in the [About me](/about/) section.
+  bio              : "My name is Kevin Afonso Duque. I was born in New Jersey, USA, into a Portuguese household. I am a first-generation American. I am currently completing a Masters Degree in Economics and am expected to graduate by May 2025. You can read more about me in the [About me](/about/) section."
   location         : "Paramus, N.J., 07652"
   links:
     - label: "Email"
