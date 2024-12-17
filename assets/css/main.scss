@@ -7,10 +7,3 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-
-
-/* Target all content on the index page */
-.home {
-    font-size: 18; /* Adjust the size as needed */
-    line-height: 1.6; /* Optional: Improves readability */
-}
