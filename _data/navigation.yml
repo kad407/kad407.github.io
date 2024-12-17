@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About me"
-    url: docs/_pages/Aboutme
+    url: "https://github.com/kad407/kad407.github.io/blob/b9cbabe4b1772d4be8c9a22f24cfbaf9bc067887/docs/_pages/Aboutme"
   - title: "Projects"
     # url: # make sure to add the url here when you are ready
   - title: "Posts"
