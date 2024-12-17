@@ -1,8 +1,8 @@
 # main links
 main:
   - title: "About me"
-    url: 
+    # url: # make sure to add the url here when you are ready
   - title: "Projects"
-    url: 
+    # url: # make sure to add the url here when you are ready
   - title: "Posts"
-    url:
+    # url: # make sure to add the url here when you are ready
