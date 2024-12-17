@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About me"
-    # url: # make sure to add the url here when you are ready
+    url: /Aboutme/
   - title: "Projects"
     # url: # make sure to add the url here when you are ready
   - title: "Posts"
