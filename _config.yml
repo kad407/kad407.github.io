@@ -307,7 +307,7 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: "https://github.com/kad407/kad407.github.io/blob/master/docs/_posts/2024-12-15-my-first-post.md"
+      path: "https://github.com/kad407/kad407.github.io/blob/596d8cf62edeef5585feb98c1eaa7283f73fdf26/docs/_posts/2016-02-24-welcome-to-jekyll.md"
       type: posts
     values:
       layout: single
