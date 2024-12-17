@@ -115,7 +115,12 @@ analytics:
 author:
   name             : "Kevin Afonso Duque"
   avatar           : "https://github.com/kad407/kad407.github.io/blob/master/Personal_Avatar_Photo.png?raw=true"
-  bio              : "Currently a Master of Arts Economics Student at Rutgers University, New Brunswick"
+  bio              :  >-
+    My name is Kevin Afonso Duque.
+
+    I was born in New Jersey, USA, into a Portuguese household. My sister and I are first-generation Americans.
+    I love working with .NET and AWS and to combine the two together.
+    You can read more about me in the [About me](/about/) section.
   location         : "Paramus, N.J., 07652"
   links:
     - label: "Email"
@@ -152,6 +157,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/kevinafonsoduque"
 
 
 # Reading Files
