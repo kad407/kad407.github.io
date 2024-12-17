@@ -113,9 +113,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kevin Afonso Duque"
+  name             : "Kevin Afonso Duque" 
   avatar           : "https://github.com/kad407/kad407.github.io/blob/master/Personal_Avatar_Photo.png?raw=true"
-  bio              : "My name is Kevin Afonso Duque. I was born in New Jersey, USA, into a Portuguese household. I am a first-generation American. I am currently completing a Masters Degree in Economics. You can read more about me in the [About me](/about/) section."
+  bio              : "My name is Kevin Afonso Duque, and I am a first-generation American born in New Jersey, USA, to a Portuguese household. I am currently pursuing a Master's degree in Economics at Rutgers University, with a passion for both Macroeconomics and Economic Development. I am actively engaged in research projects, and I am a co-author of a scholarly publication, with another currently under review. You can learn more about my work and experiences in the About me section."
   location         : "Paramus, N.J., 07652"
   links:
     - label: "Resume"
