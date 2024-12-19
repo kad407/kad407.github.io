@@ -1,8 +1,10 @@
 # main links
 main:
   - title: "About me"
-    url: "https://github.com/kad407/kad407.github.io/blob/e09a79bf4754d270d0f13037aeb14df167a3ecc7/docs/_pages/aboutme.md"
+    url: /aboutme/
   - title: "Projects"
     # url: # make sure to add the url here when you are ready
   - title: "Posts"
     # url: # make sure to add the url here when you are ready
+  - title: "Rutgers University Economics Department"
+    url: "https://economics.rutgers.edu"
