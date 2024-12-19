@@ -1,8 +1,7 @@
 ---
-title:  "About Me"
-layout: archive
-author_profile: true
-comments: true
+title: "About Me"
+layout: page
+permalinkk: /aboutme/
 ---
 
 This is my About me page.
