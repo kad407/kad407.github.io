@@ -305,14 +305,7 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
   - scope:
-      path: "https://github.com/kad407/kad407.github.io/blob/596d8cf62edeef5585feb98c1eaa7283f73fdf26/docs/_posts/2016-02-24-welcome-to-jekyll.md"
-      type: posts
+      path: "_pages/aboutme.md"  # Or whatever your About page is called
     values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      permalink: "/aboutme/"
