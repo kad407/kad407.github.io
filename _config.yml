@@ -154,6 +154,9 @@ footer:
       url: "https://www.linkedin.com/in/kevinafonsoduque"
 
 
+
+include: ["_pages"]
+
 # Reading Files
 include:
   - .htaccess
@@ -303,9 +306,11 @@ compress_html:
     envs: development
 
 
-# Defaults
 defaults:
+  # _pages
   - scope:
-      path: "_pages/aboutme.md"  # Or whatever your About page is called
+      path: "_pages/aboutme.md"
+      type: pages
     values:
-      permalink: "/aboutme/"
+      layout: single
+      author_profile: true
