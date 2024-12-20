@@ -154,9 +154,6 @@ footer:
       url: "https://www.linkedin.com/in/kevinafonsoduque"
 
 
-
-include: ["_pages"]
-
 # Reading Files
 include:
   - .htaccess
