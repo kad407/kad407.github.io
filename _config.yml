@@ -63,30 +63,27 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Currently an MA Economics Student at Rutgers University (New Brunswick). Interested in Macroeconomics, Econometrics, and Economic Development"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/kevin_duque07/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/kad407"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/kevinafonsoduque"
+
+
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "kevin.a.duque07@gmail.com"
+    - label: "Resume"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "/assets/yourfile.pdf"
+
 
 defaults:
   # _posts
