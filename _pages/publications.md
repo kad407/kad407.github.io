@@ -4,7 +4,7 @@ permalink: /publications/
 ---
 
 <div style="font-size: 12px;">
-  <p>This page covers scholarly publications for which I am a co-author, as well as manuscripts currently under review or in progress:</p>
+  <p>This page covers scholarly publications for which I am co-author, as well as manuscripts currently under review or in progress:</p>
   <ul>
     <li>
       <strong>Published:</strong> 
