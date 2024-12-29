@@ -13,3 +13,14 @@ h2 {
 p {
   font-size: 1.125rem;
 }
+
+/* Smaller post title */
+h1.post-title {
+  font-size: 18px; /* Adjust this value to your preference */
+}
+
+
+/* Smaller body text */
+.post-content p {
+  font-size: 12px; /* Adjust this value as needed */
+}
