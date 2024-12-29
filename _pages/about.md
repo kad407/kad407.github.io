@@ -3,6 +3,9 @@ permalink: /about/
 title: "About me"
 ---
 
+![Rutgers University Logo](assets/images/Rutgers_University_Logo.png)
+
+
 <div style="font-size: 12px;">
   <p>
     I am an MA Economics student at Rutgers University’s flagship campus in New Brunswick, with an anticipated graduation in May 2025. My academic interests lie in Macroeconomics, Economic Development, and Econometrics, and I am particularly passionate about using data-driven insights to address real-world economic challenges. I have conducted extensive research on international business and economic development in Africa, culminating in a published article, <i>Policy Semantic Networks Associated with ICT Utilization in Africa</i>, in the journal <i>Social Network Analysis and Mining</i>. Additionally, I have a forthcoming article under review with <i>Information Technology & People</i>. My skills in data analysis and programming—spanning R, Python, and MATLAB—allow me to uncover trends and generate actionable insights from complex datasets, positioning me as both an analytical thinker and a problem-solver.
