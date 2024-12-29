@@ -3,7 +3,7 @@ permalink: /about/
 title: "About me"
 ---
 
-<img src="/assets/images/Rutgers_University_Logo.png" alt="Rutgers University Logo" style="max-width: 100%; height: auto;" />
+<img src="/assets/images/Rutgers_University_Logo.png" alt="Rutgers University Logo" style="max-width: 50%; height: auto;" />
 
 
 <div style="font-size: 12px;">
